@@ -22,4 +22,4 @@ Welcome to the **Turtle Crossing Game**! This game is a fun and engaging project
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/turtle-crossing-game.git
+   git clone https://github.com/FARINATTAR/TurtleTheRoadRacer.git
